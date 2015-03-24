@@ -1,0 +1,16 @@
+# OS stuff
+.DS_Store
+
+# brkt command
+.brkt.json
+
+# Editor crap
+*.swp
+*~
+
+# Byte-compiled python
+*.pyc
+
+# Package directory
+build/
+dist/
