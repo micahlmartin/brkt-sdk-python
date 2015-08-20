@@ -3,7 +3,7 @@ import glob
 
 setup(
     name='brkt_sdk',
-    version='0.1',
+    version='0.1.1',
     description='Python SDK to the Bracket API',
     packages=[
         'brkt_requests'
